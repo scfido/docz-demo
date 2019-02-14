@@ -1,0 +1,15 @@
+{
+  "name": "docz-demo",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
+  "devDependencies": {
+    "docz": "^0.13.7",
+    "docz-theme-default": "^0.13.7"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.1"
+  }
+}
